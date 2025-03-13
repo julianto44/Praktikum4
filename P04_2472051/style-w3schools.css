@@ -1,3 +1,64 @@
-.title{
-    font-size: x-large;
+.head {
+    text-align: center;
+    background-color: #282B30;
+    color: white;
+    width: 33%;
+}
+
+.head:active {
+    background-color: #7289DA;
+}
+
+.head:hover {
+    background-color: #1E2124;
+}
+
+.learn {
+    border-radius: 15px;
+    background-color: #04AA6D;
+    color: white;
+    padding: 5px 50px 5px 50px;
+}
+
+.reference {
+    border-radius: 15px;
+    background-color: #15202B;
+    color: white;
+    padding: 5px 50px 5px 50px;
+}
+
+.certified {
+    border-radius: 15px;
+    background-color: #FFC0C7;
+    color: black;
+    padding: 5px 50px 5px 50px;
+}
+
+.main-content {
+    font-family: Verdana;
+}
+
+a:active {
+    background-color: #7289DA;
+}
+
+a.link {
+    text-decoration: none;
+    color: white;
+}
+
+tr {
+    text-align: center;
+}
+
+.html {
+    background-color: #D9EEE1;
+}
+
+.css {
+    background-color: #FFF4A3;
+}
+
+.javascript {
+    background-color: #F3ECEA;
 }
